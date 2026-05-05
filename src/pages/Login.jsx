@@ -144,7 +144,7 @@ export default function Login() {
         <div className="pqc-notice">
           <span>🛡</span>
           <span>
-            Protected by <strong>Lamport Signatures</strong> — a post-quantum
+            Protected by <strong>Dilithium Signmature and Kyber </strong> — a post-quantum
             cryptographic scheme resistant to quantum computing attacks.
           </span>
         </div>
